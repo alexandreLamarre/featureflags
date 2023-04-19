@@ -1,4 +1,4 @@
-module github.com/dbason/featureflags
+module github.com/alexandreLamarre/featureflags
 
 go 1.18
 
